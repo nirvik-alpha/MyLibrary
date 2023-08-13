@@ -5,10 +5,11 @@ MyLibrary is a library management system . Here a user can login and register to
 1. User Login and Registration System
 2. Forgot Password
 3. Home page
-4. Admin can add/update/delete author
-5. Admin can add/update/delete category
-6. Admin can add/update/delete publisher
-7. Issue book / Return book
+4. add/update/delete author
+5. add/update/delete category
+6. add/update/delete publisher
+7. add/update/delete books
+8. Issue book / Return book
 
 ### Languages: 
 Java, Java Swing
@@ -23,7 +24,13 @@ Netbeans 8.0
 ### Animated Splash Screen:
 <img src="./S_Shot/login.PNG" width="450" height="500" title="" />     <img src="./S_Shot/forgot.PNG" width="450" height="500" title="" /> 
 
+<img src="./S_Shot/register.PNG" width="450" height="500" title="" />     <img src="./S_Shot/home.PNG" width="450" height="500" title="" />
 
+<img src="./S_Shot/addstudent.PNG" width="450" height="500" title="" />     <img src="./S_Shot/author.PNG" width="450" height="500" title="" />
+
+<img src="./S_Shot/category.PNG" width="450" height="500" title="" />     <img src="./S_Shot/publisher.PNG" width="450" height="500" title="" />
+
+<img src="./S_Shot/issue.PNG" width="450" height="500" title="" />     <img src="./S_Shot/return.PNG" width="450" height="500" title="" />
 
 
 
