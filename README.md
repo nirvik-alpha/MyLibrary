@@ -22,15 +22,15 @@ Netbeans 8.0
 
 ## Project Demo:
 ### Animated Splash Screen:
-<img src="./S_Shot/login.PNG" width="450" height="500" title="" />     <img src="./S_Shot/forgot.PNG" width="450" height="500" title="" /> 
+<img src="./S_Shot/login.PNG" width="450" height="450" title="" />     <img src="./S_Shot/forgot.PNG" width="450" height="450" title="" /> 
 
-<img src="./S_Shot/register.PNG" width="450" height="500" title="" />     <img src="./S_Shot/home.PNG" width="450" height="500" title="" />
+<img src="./S_Shot/register.PNG" width="450" height="450" title="" />     <img src="./S_Shot/home.PNG" width="450" height="450" title="" />
 
-<img src="./S_Shot/addstudent.PNG" width="450" height="500" title="" />     <img src="./S_Shot/author.PNG" width="450" height="500" title="" />
+<img src="./S_Shot/addstudent.PNG" width="450" height="450" title="" />     <img src="./S_Shot/author.PNG" width="450" height="450" title="" />
 
-<img src="./S_Shot/category.PNG" width="450" height="500" title="" />     <img src="./S_Shot/publisher.PNG" width="450" height="500" title="" />
+<img src="./S_Shot/category.PNG" width="450" height="450" title="" />     <img src="./S_Shot/publisher.PNG" width="450" height="450" title="" />
 
-<img src="./S_Shot/issue.PNG" width="450" height="500" title="" />     <img src="./S_Shot/return.PNG" width="450" height="500" title="" />
+<img src="./S_Shot/issue.PNG" width="450" height="450" title="" />     <img src="./S_Shot/return.PNG" width="450" height="450" title="" />
 
 
 
