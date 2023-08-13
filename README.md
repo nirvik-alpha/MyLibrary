@@ -20,8 +20,8 @@ MSSQL Server 2014
 ### Tools and Technologies: 
 Netbeans 8.0
 
-## Project Demo:
-### Animated Splash Screen:
+## Project Demo :
+
 <img src="./S_Shot/login.PNG" width="450" height="450" title="" />     <img src="./S_Shot/forgot.PNG" width="450" height="450" title="" /> 
 
 <img src="./S_Shot/register.PNG" width="450" height="450" title="" />     <img src="./S_Shot/home.PNG" width="450" height="450" title="" />
