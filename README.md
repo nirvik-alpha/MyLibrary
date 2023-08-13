@@ -21,8 +21,8 @@ Netbeans 8.0
 
 ## Project Demo:
 ### Animated Splash Screen:
-<img src="./S_Shot/login.PNG" width="500" height="500" title="" /> 
-<img src="./S_Shot/forgot.PNG" width="500" height="500" title="" /> 
+<img src="./S_Shot/login.PNG" width="400" height="500" title="" /> 
+<img src="./S_Shot/forgot.PNG" width="400" height="500" title="" /> 
 
 
 
